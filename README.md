@@ -1,0 +1,1 @@
+# halite-ai-competition-bot
