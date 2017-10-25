@@ -1,0 +1,36 @@
+[
+ {
+  "Error": {
+   "Message": "ERRORED! Got Exception (if any): ERROR: Bot #0: Received invalid character '    ships[current].navigate_to(ship.closest_point_to(planets[current%len(planets)]), game_map, speed=hlt.constants.MAX_SPEED/2))s'. (at character 5.)\nInput received from bot:\n    ships[current].navigate_to(ship.closest_point_to(planets[current%len(planets)]), game_map, speed=hlt.constants.MAX_SPEED/2))\n    ^; Response received (if any):     ships[current].navigate_to(ship.closest_point_to(planets[current%len(planets)]), game_map, speed=hlt.constants.MAX_SPEED/2))                                                                                                                               ^SyntaxError: invalid syntax",
+   "Turn": 1
+  },
+  "Frames": [
+   {
+    "Time": 123,
+    "Turn": 0
+   },
+   {
+    "Time": 0
+   }
+  ],
+  "PlayerID": 0,
+  "PlayerName": "  File \"MyBot.py\", line 37"
+ },
+ {
+  "Error": {
+   "Message": "ERRORED! Got Exception (if any): ERROR: Bot #1: Received invalid character '    ships[current].navigate_to(ship.closest_point_to(planets[current%len(planets)]), game_map, speed=hlt.constants.MAX_SPEED/2))s'. (at character 5.)\nInput received from bot:\n    ships[current].navigate_to(ship.closest_point_to(planets[current%len(planets)]), game_map, speed=hlt.constants.MAX_SPEED/2))\n    ^; Response received (if any):     ships[current].navigate_to(ship.closest_point_to(planets[current%len(planets)]), game_map, speed=hlt.constants.MAX_SPEED/2))                                                                                                                               ^SyntaxError: invalid syntax",
+   "Turn": 1
+  },
+  "Frames": [
+   {
+    "Time": 123,
+    "Turn": 0
+   },
+   {
+    "Time": 0
+   }
+  ],
+  "PlayerID": 1,
+  "PlayerName": "  File \"MyBot.py\", line 37"
+ }
+]

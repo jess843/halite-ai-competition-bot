@@ -1,0 +1,36 @@
+[
+ {
+  "Error": {
+   "Message": "ERRORED! Got Exception (if any): ERROR: Bot #0: Received invalid character 'Traceback (most recent call last):T'. (at character 1.)\nInput received from bot:\nTraceback (most recent call last):\n^; Response received (if any): Traceback (most recent call last):  File \"MyBot.py\", line 31, in <module>    if nearest_planet.is_owned():AttributeError: 'NoneType' object has no attribute 'is_owned'",
+   "Turn": 1
+  },
+  "Frames": [
+   {
+    "Time": 78,
+    "Turn": 0
+   },
+   {
+    "Time": 107
+   }
+  ],
+  "PlayerID": 0,
+  "PlayerName": "Settler"
+ },
+ {
+  "Error": {
+   "Message": "ERRORED! Got Exception (if any): ERROR: Bot #1: Received invalid character 'Traceback (most recent call last):T'. (at character 1.)\nInput received from bot:\nTraceback (most recent call last):\n^; Response received (if any): Traceback (most recent call last):  File \"MyBot.py\", line 31, in <module>    if nearest_planet.is_owned():AttributeError: 'NoneType' object has no attribute 'is_owned'",
+   "Turn": 1
+  },
+  "Frames": [
+   {
+    "Time": 80,
+    "Turn": 0
+   },
+   {
+    "Time": 102
+   }
+  ],
+  "PlayerID": 1,
+  "PlayerName": "Settler"
+ }
+]
